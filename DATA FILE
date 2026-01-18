@@ -1,0 +1,13 @@
+## Counts Total Errors
+
+Searches for error status codes such as:
+
+1.400 (Bad Request)
+
+2.401 (Unauthorized)
+
+3.403 (Forbidden)
+
+4.404 (Not Found)
+
+5.500 (Server Error)
